@@ -1,6 +1,6 @@
 # 🕒 Queue Waiting Time Prediction
 
-This repository contains a Jupyter notebook that predicts queue waiting times using machine learning techniques. It reads multiple CSV files from a dataset, combines them, and trains a model to understand patterns in waiting times.
+This repository contains a Jupyter notebook that predicts queue waiting times using machine learning techniques.
 
 ---
 
